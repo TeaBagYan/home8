@@ -1,0 +1,148 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	font-size: 45px;
+	color: #000080;
+}
+p{
+	color: #000080;
+	font-size: 40px;
+}
+button{
+	font-size: 20px;
+	width: 190px;
+	height: 40px;
+	background-color: #FFDAB9;
+	color: #5f2f1b;
+	border: none;
+	border-radius: 5px;
+}
+header{
+		background-color: #ADD8E6;
+  align-items: center;
+  height: 80px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+.navbar{
+	background-color: #4682B4;
+	width: 65%;
+	height: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	border-radius: 10px;
+}
+.navbar a{
+	width: 100%;
+	text-decoration: none;
+	color: #000080;
+	font-size: 150%;
+
+	display: flex;
+	justify-content: space-around;
+}
+.logo{
+	height: 100%;
+	width: 6%;
+}
+.logo img{
+	height: 100%;
+	width: 100%;
+}
+.polz{
+	width: 60px;
+	height: 60px;
+}
+.polz img{
+	width: 100%;
+	height: 100%;
+}
+.pg1{
+	width: 100%;
+	height: 700px;
+	background-color: #ADD8E6;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+.bl1{
+	width: 100%;
+	height: 10%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.bl2{
+	width: 50%;
+	height: 90%;
+display: flex;
+flex-direction: column;
+
+}
+.bl2 input{
+	width: 50%;
+	height: 20%;
+	font-size: 40px;
+	color: #000080;
+	border: none;
+	border-radius: 10px;
+}
+.bl2 p{
+	color: red;
+}
+
+.cal_b{
+	width: 80%;
+	height: 10%;
+	display: flex;
+
+}
+.cal_b input{
+	width: 20%;
+	height: 90%;
+}
+
+
+
+footer{
+	background-color: #4682B4;
+	width: 100%;
+	height: 300px;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	color: #fbefd0;
+}
+footer h1{
+	color: #000080;
+	font-size: 30px;
+}
+footer p{
+	color: #000080;
+	font-size: 20px;
+}
+.f_main{
+	width: 40%;
+	height: 70%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	line-height: 2;
+}
+.f_m3{
+	height: 50%;
+	width: 70%;
+	display: flex;
+	justify-content: space-around;
+}
+.f_m3 img{
+	width: 80px;
+	height: 80px;
+}
+
+
